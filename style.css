@@ -1,6 +1,7 @@
 /* CSS Reset */
 body {
     font-family: sans-serif;
+    overflow-x: hidden;
 }
 
 * {
