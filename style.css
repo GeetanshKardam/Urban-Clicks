@@ -491,7 +491,7 @@ footer {
     display: flex;
     flex-direction: column;
     padding: 3px 290px;
-    height: 600px;
+    height: 510px;
     justify-content: center;
     align-items: center;
     margin-top: -15px;
@@ -501,7 +501,7 @@ footer {
     content: "";
     position: absolute;
     background: url('images/background/home\ bg\ image.jpg') no-repeat center center/cover;
-    height: 600px;
+    height: 480px;
     width: 100%;
     z-index: -1;
     opacity: 0.4;
@@ -537,7 +537,7 @@ footer {
     justify-content: center;
     align-items: center;
     background: url(images/background/about\ us\ bg.png);
-    height: 1450px;
+    height: 1600px;
     width: 100%;
     padding: 50px 0;
 }
