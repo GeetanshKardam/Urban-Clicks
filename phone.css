@@ -96,12 +96,12 @@
     font-size: 30px;
  }
  #abouthome{
-    height: 510px; 
+    height: 650px; 
     padding: 3px 28px;
 }
 
 #abouthome::before{
-    height: 480px; 
+    height: 650px; 
 }
 #abouthome h2{
     font-size: 32px;
