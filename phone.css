@@ -25,12 +25,12 @@
 
 /* Home section */
 #home{
-    height: 507px; 
+    height: 480px; 
     padding: 3px 28px;
 }
 
 #home::before{
-    height: 480px; 
+    height: 460px; 
 }
 #home h2{
     font-size: 20px;
